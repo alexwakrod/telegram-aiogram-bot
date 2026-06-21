@@ -14,8 +14,8 @@ The dashboard runs on **Laravel 12 + Vue 3 + Inertia + Reverb**.
 
 ## Repository Links
 
-- **Bot**: [https://github.com/lelextb/telegram-aiogram-bot](https://github.com/lelextb/telegram-aiogram-bot)
-- **Dashboard**: [https://github.com/lelextb/telegram-bot-analytics](https://github.com/lelextb/telegram-bot-analytics)
+- **Bot**: [https://github.com/alexwakrod/telegram-aiogram-bot](https://github.com/alexwakrod/telegram-aiogram-bot)
+- **Dashboard**: [https://github.com/alexwakrod/telegram-bot-analytics](https://github.com/alexwakrod/telegram-bot-analytics)
 
 ---
 
@@ -30,7 +30,7 @@ The dashboard runs on **Laravel 12 + Vue 3 + Inertia + Reverb**.
 ### Local Installation (Long Polling)
 
 ```bash
-git clone https://github.com/lelextb/telegram-aiogram-bot.git
+git clone https://github.com/alexwakrod/telegram-aiogram-bot.git
 cd telegram-aiogram-bot
 python -m venv venv
 source venv/bin/activate
@@ -85,7 +85,7 @@ python -m bot.main
 ### Local Installation
 
 ```bash
-git clone https://github.com/lelextb/telegram-bot-analytics.git
+git clone https://github.com/alexwakrod/telegram-bot-analytics.git
 cd telegram-bot-analytics
 composer install
 npm install --legacy-peer-deps
@@ -230,9 +230,9 @@ No warranty, use at your own risk.
 
 --
 
-## 9. LelexTB's Word & Credits
+## 9. Alex Wakrod's Word & Credits
 
-This project was conceived, architected, and brought to life by **LelexTB**.  
+This project was conceived, architected, and brought to life by **alexwakrod**.  
 It represents a complete, production‑ready ecosystem for a high‑performance Telegram bot and its real‑time analytics dashboard – built with attention to concurrency, security, observability, and developer experience.
 
 **Credits & Thanks**
@@ -249,5 +249,5 @@ It represents a complete, production‑ready ecosystem for a high‑performance 
 If you find this project useful, consider giving it a ⭐ on GitHub, sharing feedback, or contributing.  
 For questions or collaborations, reach out via GitHub Issues or Discussions.
 
-— **LelexTB**  
+— **Alex Wakrod**  
 *Agentic Architect • Multi‑Stack Engineer • Systems Architect*
